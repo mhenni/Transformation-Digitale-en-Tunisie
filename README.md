@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Le Projet
 
-You can use the [editor on GitHub](https://github.com/mhenni/transformation-digitale-tunisie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Constatant le manque d'initiatives émanant de la communauté pour pousser en avant la transformation digitale en Tunisie, j'ai entrepris d'initier cette dynamique dans l'espoir d'enclencher un projet collaboratif d'envergure autour de la digitalisation de l'économie tunisienne. L'output initial de ce projet est un livre blanc, public et sous licence libre pour dresser un état des lieux et un programme de digitalisation en Tunisie.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Le Livre Blacn
+Basé sur les concepts communautaires d'ouverture, de liberté et de collaboration, ce livre se distingue notamment par les caractéristiques suivantes :
+- Il est public et ne peut avoir de propriétaire
+- Son plan n'est pas prédéfini et sera piloté au fil de l'eau, d'une manière Agile
+- Il concerne aussi bien le secteur public que privé
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhenni/transformation-digitale-tunisie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Appel à contribution
+Toute personne ayant une expertise, des idées, des connaissances...et désirant contribuer à ce livre blanc en tant que co-auteur est la bienvenue. Dans une perspective pluridisciplinaire, nous avons besoin de :
+- Expert du Digital
+- Economistes
+- Développeurs
+- Start-uppeurs
+- Marketeurs
+- Financiers...

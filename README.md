@@ -12,5 +12,7 @@ Basé sur les concepts communautaires d'ouverture, de liberté et de collaborati
 
 * Il est public et ne peut avoir de propriétaire
 * Son plan n'est pas prédéfini, il est évolutif et sera piloté au fil de l'eau, d'une manière Agile
-* Il concerne aussi bien le secteur public que privé
+* Il concerne aussi bien la transformation digitale dans le secteur public que privé.
+
+
 

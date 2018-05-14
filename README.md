@@ -1,5 +1,5 @@
 ---
-description: Le livre blanc de la transformation digitale en Tunisie..
+description: Le livre blanc de la transformation digitale en Tunisie.
 ---
 
 # Le Projet

@@ -1,9 +1,6 @@
 # Table of contents
 * [Le Projet](README.md)
-# Summary
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [Chapitre I : La transformation digitale : quelles théories pour quelles pratiques ?](ch1/chapitr1.md)
+    * [Partie 1-1](part1/writing.md)
+    * [Partie 1-2](part1/gitbook.md)
+* [Chapitre II : La digitalisation en Tunisie : un processus inachevé](part2/README.md)

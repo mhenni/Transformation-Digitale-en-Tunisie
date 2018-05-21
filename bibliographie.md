@@ -4,73 +4,6 @@ description: Recueil des références bibliographiques
 
 # Bibliographie
 
-  
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}  
-@font-face  
-	{font-family:Calibri;  
-	panose-1:2 15 5 2 2 2 4 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1073786111 1 0 415 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin-top:0cm;  
-	margin-right:0cm;  
-	margin-bottom:8.0pt;  
-	margin-left:0cm;  
-	line-height:107%;  
-	mso-pagination:widow-orphan;  
-	font-size:11.0pt;  
-	font-family:"Calibri",sans-serif;  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:Calibri;  
-	mso-fareast-theme-font:minor-latin;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-fareast-language:EN-US;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:"Calibri",sans-serif;  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:Calibri;  
-	mso-fareast-theme-font:minor-latin;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-fareast-language:EN-US;}  
-.MsoPapDefault  
-	{mso-style-type:export-only;  
-	margin-bottom:8.0pt;  
-	line-height:107%;}  
-@page WordSection1  
-	{size:595.3pt 841.9pt;  
-	margin:70.85pt 70.85pt 70.85pt 70.85pt;  
-	mso-header-margin:35.4pt;  
-	mso-footer-margin:35.4pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
-
-
 **ANVIE \(2015\)**, La transformation digitale dans les entreprises, Livre Blanc du Club Digitalisation et organisation. Travaux 2014-2015, http://club-do.fr/wp-content/uploads/2015/10/Livre-Blanc-ClubDO-2014-2015.pdf. Berger-Douce, S. \(2015\), La transition numérique dans le monde du travail, Colloque de l’AGERA-CESER: Industries du futur, métiers de demain, Lyon 24 novembre.
 
 **Bounfour A. \(2016\)**, The Acceluction Regime: Its Governance, in Bounfour ed. Digital Futures, Digital Transformation, Part of the series Progress in IS, pp 95-101.

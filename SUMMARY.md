@@ -3,4 +3,5 @@
 * [Le Projet](README.md)
 * [Préambule](preambule.md)
 * I.Transformation Digitale : quelles théories, pour quelles pratiques ?
+* [Bibliographie](bibliographie.md)
 
